@@ -1,0 +1,43 @@
+﻿@model List<ApostaGenerator.Models.Aposta>
+@{
+    ViewData["Title"] = "Apostas Geradas";
+    Layout = null;
+}
+
+
+<link rel="stylesheet" href="~/css/aposta.css">
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+    <ul>
+        @foreach (var aposta in Model)
+        {
+            <li>@string.Join(", ", aposta.Numeros.OrderBy(n => n))</li>
+        }
+    </ul>
+
+    <a href="javascript:void(0)" onclick="confirmarGeracaoAposta()">Gerar Nova Aposta</a>
+</div>
+
+<script src="~/js/aposta.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    function confirmarGeracaoAposta() {
+        Swal.fire({
+            title: 'Deseja gerar uma nova aposta?',
+            text: "Você está prestes a gerar uma nova aposta.",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Sim, gerar por favor.',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                window.location.href = '@Url.Action("Create", "Aposta")';
+            }
+        });
+    }
+</script>
+

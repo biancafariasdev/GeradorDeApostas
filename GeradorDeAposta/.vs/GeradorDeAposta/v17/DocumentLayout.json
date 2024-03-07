@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|c:\\workspace\\geradordeapostas\\geradordeaposta\\webapplication1\\views\\aposta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|solutionrelative:webapplication1\\views\\aposta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|c:\\workspace\\geradordeapostas\\geradordeaposta\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|c:\\workspace\\geradordeapostas\\geradordeaposta\\webapplication1\\wwwroot\\css\\aposta.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2655A0B9-292B-4974-851E-6C91E0BA6167}|WebApplication1\\GeradorDeApostas.csproj|solutionrelative:webapplication1\\wwwroot\\css\\aposta.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T21:31:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\Views\\Aposta\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Aposta\\Index.cshtml",
+              "ToolTip": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\Views\\Aposta\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Aposta\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T14:04:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aposta.css",
+              "DocumentMoniker": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\wwwroot\\css\\aposta.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\aposta.css",
+              "ToolTip": "C:\\Workspace\\GeradorDeApostas\\GeradorDeAposta\\WebApplication1\\wwwroot\\css\\aposta.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\aposta.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T21:28:36.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
